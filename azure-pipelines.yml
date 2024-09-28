@@ -13,7 +13,7 @@ variables:
   imageName: 'pipelines-javascript-docker'
 
 stages:
-- stage: Build
+- stage: Build1
   displayName: Build image
   jobs:
   - job: Build
