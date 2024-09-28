@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ashishavats/MyFirstDevOpsProject/_apis/build/status%2Fvats-ashish.pipelines-javascript-docker?branchName=main)](https://dev.azure.com/ashishavats/MyFirstDevOpsProject/_build/latest?definitionId=3&branchName=main)
 # Sample Docker and Kubernetes Node.JS app
 
 This code sample uses the Node.js web framework Express to create a basic web server that listens for HTTP requests on port 8080.
